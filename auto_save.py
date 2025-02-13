@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*- teste
+# -*- coding: utf-8 -*-
 import os
 from functools import partial
 from PyQt5.QtCore import QTimer, Qt, QSettings, QObject, QEvent, QTranslator, QLocale
