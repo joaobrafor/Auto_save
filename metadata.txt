@@ -1,0 +1,18 @@
+[general]
+name=Auto Save
+qgisMinimumVersion=3.0
+description=Automatically saves the QGIS project and editable layers at a user-defined interval.
+about=The Auto Save plugin optimizes your QGIS workflow by periodically saving your project and editing layers. It waits until geometry editing is finalized, and you can enable or disable confirmation prompts before saving.
+version=1.0
+author=João Ubaldo
+email=joao@brafor.com.br
+icon=icon.png
+experimental=False
+deprecated=False
+tags=autosave,project,layer,editing
+
+[about]
+category=Project
+homepage=https://github.com/joaobrafor/Auto_save
+tracker=https://github.com/joaobrafor/Auto_save/issues
+repository=https://github.com/joaobrafor/Auto_save
