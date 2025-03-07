@@ -11,8 +11,6 @@ experimental=False
 deprecated=False
 tags=autosave,project,layer,editing
 license=MIT
-
-[about]
 category=Project
 homepage=https://github.com/joaobrafor/Auto_save
 tracker=https://github.com/joaobrafor/Auto_save/issues
